@@ -1,2 +1,4 @@
-package com.ajinkya.microservices.order.controller;public class OrderController {
+package com.ajinkya.microservices.order.controller;
+
+public class OrderController {
 }
